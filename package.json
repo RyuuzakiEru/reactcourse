@@ -7,7 +7,7 @@
     "react-scripts": "^1.1.4"
   },
   "engines": {
-    "node": "0.8.x",
+    "node": "0.12.x",
     "npm": "2.5.x"
   },
   "dependencies": {
