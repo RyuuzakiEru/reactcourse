@@ -6,6 +6,10 @@
     "concurrently": "3.5.1",
     "react-scripts": "^1.1.4"
   },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "2.5.x"
+  },
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
     "firebase": "^4.10.1",
